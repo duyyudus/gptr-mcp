@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gptr": {
+      "type": "sse",
+      "url": "http://gptr-mcp:8000/sse"
+    }
+  }
+}
