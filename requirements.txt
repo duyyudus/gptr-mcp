@@ -14,3 +14,7 @@ loguru>=0.7.0
 # Testing dependencies
 httpx>=0.24.0
 sseclient-py>=1.7.0
+langchain-mcp-adapters>=0.1.0  # LangChain MCP adapters for tool integration
+langchain-google-genai>=2.1
+tavily-python>=0.7
+firecrawl-py
